@@ -2,7 +2,7 @@
 
 function doToElementsInArray(arr){
 
-  arr.forEach(even =>{callback})
+  arr.forEach()
 
 }//end doToElementsInArray
 
