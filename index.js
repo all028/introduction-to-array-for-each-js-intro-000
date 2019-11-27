@@ -1,7 +1,7 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(arr){
 
-  arr.forEach(function(arr){})
+  arr.forEach(even =>{})
 
 }//end doToElementsInArray
 
