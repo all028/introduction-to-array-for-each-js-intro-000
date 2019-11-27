@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-/*
+
 function doToElementsInArray(arr){
 
   arr.forEach(even =>{callback})
@@ -9,4 +9,4 @@ function doToElementsInArray(arr){
 function changeCompletely(){
 
 
-}*/
+}
